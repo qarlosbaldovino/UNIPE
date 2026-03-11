@@ -20,7 +20,7 @@ Conjunto de **instrucciones ORDENADAS escritas en un lenguaje de programación**
 
     Segun profe:
         
-        - Calcular y almacenar valores de tareas hechas anteriormente.
+        - Calcular (computar) y almacenar valores de tareas hechas anteriormente.
 
 #### ¿Qué necesita una computadora?
 
@@ -29,10 +29,10 @@ Conjunto de **instrucciones ORDENADAS escritas en un lenguaje de programación**
   - Datos
 
 #### Partes del modelo teórico de una computadora (modelo simplificado)
-  - **Unidad de entrada (Input)**: Recibe datos del usuario. Ejemplos: teclado, mouse, microfono, etc.
-  - **Unidad de procesamiento (CPU)**: Es el _cerebro_ de la computadora. Se encarga de ejecutar instrucciones, realizar cálculos y controlar el funcionamiento del sistema.
-  - **Memoria**: Guarda información y datos. Ejemplos: Memoria principal (RAM) y Disco Duro/Sólido (Almacenamiento)
-  - **Unidad de salida (output)**: Muestra los resultados del procesamiento. Ejemplos: pantalla, parlantes, impresora, etc.
+  - Unidad de entrada (Input): Recibe datos del usuario. Ejemplos: teclado, mouse, microfono, etc.
+  - Unidad de procesamiento (CPU): Es el _cerebro_ de la computadora. Se encarga de ejecutar instrucciones, realizar cálculos y controlar el funcionamiento del sistema.
+  - Memoria: Guarda información y datos. Ejemplos: Memoria principal (RAM) y Disco Duro/Sólido (Almacenamiento)
+  - Unidad de salida (output): Muestra los resultados del procesamiento. Ejemplos: pantalla, parlantes, impresora, etc.
 
     ![alt text](image.png)
 
@@ -100,7 +100,7 @@ Conjunto de **instrucciones ORDENADAS escritas en un lenguaje de programación**
 - Instrucciones básicas en infinitivo. (Ar- Er- Ir)
 
 ### Notas
-- Escribir instrucciones depende del **estado inicial** (posición por ejemplo). Es decir, estas instrucciones no tendran el mismo resultado si estas parado en otro lado.
+- Escribir instrucciones depende del **estado inicial** (posición por ejemplo). Es decir, estas instrucciones no tendran el mismo resultado si estas parado en otro lado. También tener el cuenta el contexto, en donde está rodeado. Tambien definir el **objetivo**.
 - Las instrucciones se pueden separar/fraccionar por **momentos**. En este caso tenemos momentos como _Llegar a puerta_ y _Salir_.
 - Cada paso que damos el _estado_ **cambia**. Es decir, una vez que estamos en un lugar diferente o hayamos hecho algo nuevo, el estado cambió. Ya que, el siguiente paso puede depender del estado actual.
 
