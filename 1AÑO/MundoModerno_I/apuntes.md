@@ -235,6 +235,29 @@ similitud es sun signo visitble de que hay una conexion oculta
 Cualidades ocultas no percibidas en conexion mar y la luna. ---> Simpatia
 Ver COSMOS
 Normas Apa: apellido,nombre. año. titulo. pais. editorial
+Introduccion , prefacio, prologo, 
+
+### Koyre
+contraposicion en el titulo. Ya impone su idea
+explicacion que es mundo cerrado y universo infinito
+crisis de la consciencia europea
+transformacion revolucion.
+Koyré se refiere a que la destruccion del cosmos
+el hombre pierde su lugar en el mundo.
+el unversio infinito es homogeneo, ya no hay jerarquia, no tienen identidad de ser.
+todos los elementos del universo estan regidos por las mismas leyes (matemáticas) geometrizacion del espacio
+matematcias metodo para abordar la naturaleza. 
+Esta matematizacion implico la precisión a los incipientes cientificos. Aparece la posibilidadd predecir los comportamientos d la naturaleza
+cambio de paradigma, en la concepción del mundo.
+no fue una mutación repentina. "TAMBIEN LAS REVOLUCIONES NECESITAN TIEMPO PARA DESARROLLARSE" 
+
+IDENTIFICAR TEMA DEL TEXTO
+Revolucion espiritual y cinetifica del siglo 17
+La historia de la destrucción del cosmos y la infinitizacion dle universo cinetifica y filosoficamente.
+IDENTIFICAR LAHIPOTESIS CENTRAL DE AUTOR QUE AFIRMA
+Koyré considera que la destrucción del cosmos  y matematizacion del espacio es la principal razón que lleva al cambio de concepción con el mundo.
+IDENTIFICAR LAS VOCES DEL TEXTO QUE NO SEAN DEL AUTOR
+
 
 
 ### palabras
