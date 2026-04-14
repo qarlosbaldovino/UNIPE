@@ -75,9 +75,9 @@ El Renacimiento no es único. Han existido otros anteriormente.
   - Renacimiento Carolingio (Siglo IX): Recuperacion de saberes clásicos bajo el imperio de Carlomagno.
   - Renacimiento del siglo XII: Se rescataron y tradujeron textos griegos y árabes (filosofía, medicina, matemáticas) al latín. Estos saberes empiezan a organizarse institucionalmente. Esto da forma a la intelectualidad europea. Es decir, ya existiá una base de estudio, discusión y transmisión del conocimiento muchos antes de la modernidad.
 
-### Antecedentes al Renacimiento:
+### Antecedentes al proceso de revolucion cientifica o temprana modernidad
 
-#### Humanismo
+#### Humanismo Renacentista
 
   - Movimiento cultural que pone foco en los textos clásicos (griegos y romanos) y en el ser humano como objeto de estudio.
   - Ver la historia de forma tripartita (Antiguedad - Edad Media - Modernidad). Los humanistas valoran mucho la antiguedad y ven a la Edad Media como un periodo de decadencia. Rechazando todo lo arabe, todas las universidades que tenian su base de conocimiento en textos arabes, considerandolos "barbarismos".
@@ -119,7 +119,7 @@ Europa amplió sus horizontes literal (descubre el mundo) y metafóricamente (Am
  - Reorganizan CONOCIMIENTO.
 
 
-#### Reformas del cristianismo
+#### Reformas del cristianismo o protestantes
 
 Martin Lutero con sus tesis, da como punto de partida al protestantismo un movimiento politico y social. Extendido gracias a la imprenta.
 
@@ -140,13 +140,14 @@ Todo este movimiento genera una gran contribución al conocimiento ya que se lle
 Para los pensadores modernos el mundo era un cosmos.
 
   - El mundo como un todo bien ordenado y organizado: un mundo tejido en una compleja malla de conexiones e interdependencias.
-  - Cada elemento tiene un propósito y sentido.
+  - Cada elemento tiene un propósito y razón de ser.
   - Su metodo de estudiar es en base a un enfoque global. Es decir, no estudiar las cosas por separado, sino como un conjunto. Entender las cosas en relación con el todo. Por ejemplo: una planta no se estodo como objeto biológico sino en relacion con el cuerpo humano, clima, incluso lo divino.
   DIFERENTE A LOS CIENTIFICOS CONTEMPORÁNEOS.
 
 ### Fuentes de inspiración para este modo de visión/concepción.
+Estas fuentes alimentan la vision de un todo ordenado y cada elemento tiene un propósito.
 
-#### Platón con la Scala Naturae
+#### Platón con la Scala Naturae (Neoplatonicos y la Teología Cristiana)
 
 Contempla al mundo en el que cada ser tiene su lugar y está unido bajo una conexión con otro ser superior e inferior. Este ser pasa a ser parte de la Cadena del ser".
   - Orden jerárquico:
@@ -162,7 +163,10 @@ Existe un propósito para cada ser. Especialmente en el ser humano, que es el de
 
 #### Platón en el Timeo
 
-Concepción del mundo en dos grupos: 
+El cuerpo del ser humano es puento en paralelo con el orden que tiene el mundo. Ambos cuerpos estan organizados segun principios análogos.
+Quiere decir los mismo principios que operan en el mundo son los mismos principios que operan en el mundo.
+
+Concepción del mundo en dos grupos: Paralelismo entre el microcosmos y el macrocosmos.
   - Microcosmos: pequeño mundo ordenado.
   - Macrocosmos: gran mundo ordenado.
 
@@ -170,7 +174,7 @@ Platón le encontraba un sentido moral y en los modernos actuales se le encuentr
 
 #### Aristóteles: Conocimiento causal.
 
-Aristóteles consideraba que para conocer algo, tenias que conocerte todo sobre eso. Especialmente sus causas fundamentales.
+Aristóteles consideraba que para conocer algo, tenias que conocerte todo sobre eso. Concretamente sus causas fundamentales.
   - Causa eficiente: Quien hizo la cosa.
   - Causa material: De qué está hecha.
   - Causa formal: Cualidades que hacen que sea lo que es.
@@ -187,14 +191,18 @@ Entonces podemos decir que la filosofía natural conocía la naturaleza comprend
 
 #### Magia natural
 
-Es una forma de trabajar dentro de la filosofía natural pero con el objetivo de buscar descubrir las conexiones ocultas/relaciones invisibles de las cosas y usarlas.
+Es una forma de trabajar dentro de la filosofía natural pero con el objetivo de buscar descubrir las conexiones y fuerzas ocultas/relaciones invisibles de las cosas y usarlas.
 Por ejemplo: Si dos cosas estan conectadas, una puede influir sobre la otra. Si conoces esa relacion, podes intervenir.
   - Manipula la naturaleza usando sus propias relaciones internas.
   - Por eso se habla de maestría. Conocer para actuar.
 
+Aprender a controlarlas para manipularlas
+
+Observar el mundo, revisar registros 
+
 #### Teoría de las signaturas
 
-Es una idea dentro de la magia natural que sostiene que las cosas de la naturaleza tienen "signos" visibles que indican sus propiedades ocultas.
+Es una idea dentro de la magia natural que sostiene que las cosas de la naturaleza tienen "signos" (signados) visibles que indican sus propiedades ocultas.
 
   - Si algo se parece a otra cosa, no es casual.
   - Esa semejanza muestra que están conectadas.
@@ -202,3 +210,35 @@ Es una idea dentro de la magia natural que sostiene que las cosas de la naturale
 La similitud no es estética, es una pista de una conexión real. SIMPATIA
 
 Esto pasa de la analogía a la accíón.
+
+Pasaje de mirada contemplativa a mirada operativa. Tambien refuerza la cosmovisión.
+
+Nexos analógicos = Nexos operativos.
+
+
+
+
+APUNTES MARTES
+Cosmogonía s16 y 17
+1500 - 1700
+Transformaciones progresivas
+porque la llama temprana modernidad porque llavarla revolucion es ya dar por setnado que es un quiebre, un cambio brusco
+modernidad instaurads siglo 18
+escolastica modo de dar conocimient oen los templos dar la fe como la razon
+los libros que llegaron de la EUropa italica venian en arabe, traducidos. Estos libros eran griegos o romanos.
+Democratización de la lectura (imprenta)
+Fractura de la unida dreligiosa europea (reformas cristianas)
+autoridad eclesiastica. 
+Aristoteles - Platon antes de cristo
+Antes de la modernidad la vision de la naturaleza era contemplativa y pasaron a ser más practicos, manipularlas, tocarlas.
+similitud es sun signo visitble de que hay una conexion oculta
+Cualidades ocultas no percibidas en conexion mar y la luna. ---> Simpatia
+Ver COSMOS
+Normas Apa: apellido,nombre. año. titulo. pais. editorial
+
+
+### palabras
+holisticas
+eclesiastico
+sincretismo
+cosmogonía.
