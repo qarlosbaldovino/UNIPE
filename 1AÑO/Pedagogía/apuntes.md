@@ -312,6 +312,122 @@ A medida que la escuela se consolidaba, también surgió la pedagogía como sabe
 
 La pedagogía moderna se estructuró a partir de distintas corrientes, entre ellas el liberalismo, el positivismo y la escuela tradicional, que contribuyeron a configurar la forma escolar dominante entre fines del siglo XIX y comienzos del siglo XX.
 
+
+
+Según Pablo Pineau, la escuela se volvió hegemónica porque logró presentarse como la forma “natural” y legítima de educar. La modernidad necesitaba una institución capaz de transmitir conocimientos, disciplinar a la población y formar ciudadanos para los nuevos Estados nacionales, y la escuela respondió a esa demanda. Pineau resume esta idea con la frase: “la modernidad dijo: esto es educación, y la escuela respondió: yo me ocupo”. Es decir, la escuela triunfó porque consiguió apropiarse casi por completo de la función educativa y desplazar otras formas de enseñanza que existían antes, como la educación familiar, los oficios, la Iglesia o el aprendizaje comunitario.
+
+La escuela logró consolidarse porque articuló una serie de dispositivos que funcionaron juntos: la organización rígida del tiempo y el espacio, la división por edades, la figura del docente como autoridad, los sistemas de evaluación, la disciplina, la creación de programas comunes y la obligación escolar. Todo eso permitió construir una maquinaria educativa eficiente para los objetivos de la modernidad.
+
+La masividad de la escuela puede justificarse por las transformaciones políticas, económicas y sociales que acompañaron el surgimiento del capitalismo y de los Estados nacionales. Las sociedades modernas necesitaban formar grandes masas de población para integrarlas al nuevo orden social. Era necesario alfabetizar, transmitir normas comunes, formar trabajadores disciplinados y construir ciudadanos que compartieran una identidad nacional.
+
+La escuela también ayudó a consolidar ideas fundamentales de la modernidad, como el progreso, el orden, la igualdad y la ciudadanía. Por eso los Estados comenzaron a dictar leyes de educación obligatoria, gratuita y gradual. La expansión de la escuela no fue solamente educativa: también fue política y económica.
+
+La masividad escolar estuvo motivada por varias razones:
+
+la necesidad de integrar socialmente a la población;
+la formación de trabajadores útiles para el capitalismo industrial;
+la construcción de identidades nacionales;
+el control y disciplinamiento social;
+la promesa moderna de progreso y movilidad social.
+
+La escuela puede entenderse al mismo tiempo como una conquista social y como un aparato de inculcación ideológica. Esa es una de las contradicciones centrales que trabajan los autores.
+
+![alt text](image-1.png)
+
+Pineau explica que la escuela produce un saber propio descontextualizado porque toma conocimientos que originalmente pertenecían a otros ámbitos y los transforma en “contenido escolar”. Los saberes dejan de estar ligados directamente a la vida cotidiana o al trabajo concreto y pasan a organizarse según criterios escolares: materias, programas, horarios, secuencias y evaluaciones.
+
+Por ejemplo, un conocimiento práctico que antes se aprendía trabajando o viviendo en comunidad pasa a enseñarse dentro del aula de manera abstracta, fragmentada y graduada. Así, la escuela no transmite simplemente conocimientos existentes, sino que crea un tipo particular de saber escolar adaptado a sus propias reglas y necesidades.
+
+El iluminismo impactó profundamente en la escuela porque aportó las ideas centrales de la modernidad: la confianza en la razón, la ciencia, el progreso y la educación como medio para transformar a la sociedad. Los ilustrados sostenían que todos los seres humanos podían educarse y que el conocimiento debía difundirse más allá de las élites.
+
+La escuela moderna toma del iluminismo:
+
+la idea de educación universal;
+la importancia de la razón y la ciencia;
+la formación del ciudadano;
+la creencia en el progreso social;
+la posibilidad de construir una sociedad mejor mediante la educación.
+
+Por eso la escuela se convierte en una institución central del proyecto moderno y del Estado nacional.
+
+La metáfora del camello y los árabes que utiliza Pineau busca explicar cómo muchas veces se naturaliza algo histórico y construido socialmente. La metáfora cuenta que un viajero observa un campamento árabe y cree que los camellos “pertenecen naturalmente” al desierto, cuando en realidad alguien los llevó allí y organizó todo ese espacio.
+
+Con esto Pineau quiere mostrar que la escuela parece algo natural, eterno y universal, pero en realidad es una construcción histórica. La escuela no existió siempre ni es la única forma posible de educar. Fue creada en un contexto determinado y responde a intereses sociales, políticos y culturales específicos.
+
+La intención del autor es desnaturalizar la escuela, es decir, mostrar que:
+
+no es eterna;
+no surgió espontáneamente;
+no es neutral;
+y podría organizarse de otras maneras.
+
+Respecto a la actividad integradora, algunos conceptos centrales de estas primeras clases podrían ser:
+
+Modernidad
+Estado Nación
+Escuela moderna
+Sistema educativo
+Dispositivo pedagógico
+Disciplina
+Socialización
+Infancia
+Currículum
+Ciudadanía
+Escolarización
+Hegemonía
+Biopolítica
+Poder
+Pedagogía tradicional
+Normalización
+Capitalismo
+Formación docente
+
+Las conexiones entre ellos podrían organizarse así:
+
+MODERNIDAD
+↓
+surgen los
+ESTADOS NACIONALES
+↓
+crean
+SISTEMAS EDUCATIVOS
+↓
+que consolidan la
+ESCUELA MODERNA
+↓
+funciona como
+DISPOSITIVO PEDAGÓGICO
+↓
+produce
+SOCIALIZACIÓN + DISCIPLINA + NORMALIZACIÓN
+↓
+forma
+CIUDADANOS y TRABAJADORES
+↓
+a través del
+CURRÍCULUM y la PEDAGOGÍA
+↓
+mediante relaciones de
+PODER y CONTROL
+↓
+sobre la categoría de
+INFANCIA
+↓
+dentro del desarrollo del
+CAPITALISMO y la MODERNIDAD
+
+Otra relación importante es:
+
+ESCUELA MODERNA
+→ aparece como forma educativa hegemónica
+→ desplaza otras formas de educación
+→ organiza tiempos, espacios y conductas
+→ crea saberes escolares propios
+→ necesita docentes especializados
+→ utiliza evaluación, acreditación y disciplina.
+
+La idea central de toda esta unidad es comprender que la escuela no es natural ni eterna, sino una construcción socio-histórica ligada al surgimiento de la modernidad, del capitalismo y de los Estados nacionales.
+
 # Clase 3
 
 ## Las teorías del currículum
@@ -455,6 +571,76 @@ La educación constituye un objeto complejo porque involucra dimensiones políti
 Además, es un objeto abierto e inconcluso. La educación cambia constantemente junto con las transformaciones históricas y sociales.
 
 Por eso las teorías pedagógicas y curriculares también cambian. Cada época produce nuevas preguntas, conflictos y debates acerca de qué significa educar y para qué sirve la escuela.
+
+Las teorías del currículum intentan responder preguntas fundamentales sobre la educación: qué enseñar, para qué enseñar, cómo enseñar, quién decide esos contenidos y qué tipo de persona y de sociedad se busca formar. Tomaz Tadeu Da Silva explica que estas teorías no son neutrales, porque cada una parte de determinadas ideas sobre el mundo, la sociedad, el conocimiento y el sujeto. Por eso, cuando una teoría describe qué es el currículum, en realidad también lo está construyendo y definiendo.
+
+Da Silva plantea que las pedagogías y las teorías del currículum existían incluso antes de que se utilizara formalmente la palabra “currículum”. Siempre hubo debates sobre qué conocimientos debían enseñarse, quién debía aprenderlos y cuál era el sentido de la escuela. Lo que cambia históricamente es la forma de responder esas preguntas.
+
+El autor propone organizar las teorías del currículum en tres grandes grupos: teorías tradicionales, teorías críticas y teorías poscríticas. Cada una tiene una manera distinta de pensar la educación y el papel de la escuela.
+
+Las teorías tradicionales aparecen ligadas al desarrollo de los sistemas educativos modernos y a la consolidación del Estado. Su preocupación principal es la organización eficiente de la enseñanza. Se interesan por cuestiones técnicas: cómo ordenar contenidos, cómo enseñar de manera eficaz, cómo evaluar y cómo alcanzar determinados objetivos educativos. Ven a la escuela como una institución que debe transmitir conocimientos considerados válidos y comunes para toda la sociedad.
+
+En estas teorías, el currículum se piensa como algo objetivo y neutral. Lo importante es lograr orden, disciplina y eficiencia. La educación aparece como un instrumento para integrar a los individuos a la sociedad y prepararlos para cumplir funciones sociales y laborales. Aquí se ubican autores como Bobbit y Tyler, vinculados a la pedagogía tecnicista. La escuela funciona casi como una fábrica: se fijan objetivos claros, se organizan métodos precisos y se controla si los resultados fueron alcanzados.
+
+Por eso, en las teorías tradicionales predominan conceptos como:
+
+eficiencia,
+organización,
+planificación,
+objetivos,
+control,
+evaluación,
+racionalidad técnica.
+
+La crítica que luego se hará a estas teorías es que presentan al currículum como si fuera neutral, cuando en realidad responde a intereses sociales y políticos determinados.
+
+Las teorías críticas surgen especialmente desde los años sesenta y setenta. Influenciadas por el marxismo y por la sociología crítica, comienzan a preguntarse por las relaciones de poder presentes en la escuela. Ya no les interesa solamente cómo enseñar, sino también analizar para quién sirve la educación y qué desigualdades reproduce.
+
+Estas teorías sostienen que la escuela no es neutral. Aunque se presente como “igual para todos”, en realidad favorece a determinados sectores sociales y reproduce desigualdades de clase, género, cultura o raza. La educación ayuda a mantener el orden social existente porque transmite valores, normas y conocimientos que benefician a los grupos dominantes.
+
+Autores como Bowles y Gintis, Bernstein, Althusser o Bourdieu analizan cómo la escuela reproduce la estructura social. Por ejemplo:
+
+Bowles y Gintis hablan de la correspondencia entre la escuela y el trabajo capitalista;
+Bernstein analiza cómo los códigos lingüísticos y culturales favorecen a ciertos grupos sociales;
+Althusser entiende a la escuela como un aparato ideológico del Estado;
+Bourdieu explica cómo la cultura escolar legitima la cultura de las clases dominantes.
+
+Las teorías críticas también desarrollan la idea de currículo oculto: aprendizajes implícitos que la escuela transmite sin decirlos abiertamente, como la obediencia, la disciplina, la competencia o el conformismo.
+
+En este enfoque, la escuela tiene una función conservadora porque ayuda a reproducir el sistema social. Sin embargo, algunos autores también reconocen que puede existir una función transformadora, es decir, la posibilidad de generar conciencia crítica y cambios sociales.
+
+Las teorías poscríticas aparecen más tarde y cuestionan incluso algunos supuestos de las teorías críticas. Influenciadas por el posestructuralismo, el feminismo y los estudios culturales, sostienen que no existe una única verdad ni una única identidad válida.
+
+Mientras las teorías críticas se concentraban sobre todo en las desigualdades de clase social, las poscríticas incorporan otros problemas:
+
+género,
+sexualidad,
+raza,
+identidad,
+diversidad cultural,
+diferencias subjetivas.
+
+Estas teorías consideran que el currículum no solo transmite conocimientos, sino también formas de identidad y maneras de entender el mundo. La escuela produce sujetos: define qué es ser “normal”, “correcto”, “inteligente”, “masculino”, “femenino”, etc.
+
+Por eso, las teorías poscríticas cuestionan la idea de un conocimiento universal y común para todos. Señalan que muchas veces, en nombre de lo “común”, se silencian diferencias culturales y subjetivas. Lo importante pasa a ser reconocer la diversidad y analizar cómo funcionan los discursos y las relaciones de poder dentro de la escuela.
+
+Da Silva explica que las teorías no simplemente descubren la realidad educativa, sino que la producen. Cuando una teoría define qué es enseñar o qué es aprender, también está construyendo una determinada visión de la educación.
+
+Esto se relaciona con la idea de Giddens sobre la reflexividad de la modernidad. El conocimiento que producen las ciencias sociales modifica la realidad social. Es decir, las teorías pedagógicas influyen sobre las prácticas escolares y transforman la educación misma.
+
+Por eso, la pedagogía no puede pensarse solo como una cuestión técnica. Siempre implica valores, decisiones políticas y proyectos de sociedad. Gimeno Sacristán sostiene que la pedagogía tiene tres componentes:
+
+explicación: entender cómo funciona la educación;
+normatividad: indicar cómo debería organizarse;
+utopía: pensar hacia dónde debería dirigirse según determinados valores.
+
+Esto significa que toda pedagogía contiene una idea de sociedad y de ser humano. Nunca existe una educación neutral.
+
+También aparece una tensión permanente dentro de la escuela: por un lado, la función conservadora, que busca reproducir el orden social y transmitir la cultura existente; por otro lado, la función transformadora, que intenta generar cambios y formar sujetos críticos capaces de intervenir en la sociedad.
+
+Pérez Gómez explica esta tensión diciendo que la escuela funciona “como dos caras de una misma moneda”. Al mismo tiempo que socializa y adapta a las personas al sistema social, también puede abrir posibilidades de reflexión, crítica y transformación.
+
+En síntesis, las teorías del currículum permiten comprender que la escuela no es solamente un lugar donde se transmiten contenidos. Es también un espacio de disputa política, cultural y social donde se define qué conocimientos son válidos, qué sujetos se buscan formar y qué tipo de sociedad se intenta construir.
 
 # Clase 4
 
@@ -652,6 +838,140 @@ El estudio de las corrientes pedagógicas permite comprender que la educación n
 Las formas escolares actuales son producto de disputas históricas entre diferentes proyectos educativos.
 
 Conocer estas corrientes permite analizar críticamente las prácticas educativas actuales y comprender que toda propuesta pedagógica implica decisiones éticas, políticas y sociales.
+
+La llamada pedagogía moderna o pedagogía tradicional fue la forma educativa que acompañó la consolidación de los Estados nacionales y de la escuela como institución obligatoria. Hasta fines del siglo XIX, la educación no era un asunto central del Estado: estaba más ligada a la Iglesia, a las familias o a iniciativas locales. Pero con el crecimiento de las sociedades industriales y capitalistas, los gobiernos comenzaron a considerar que educar a toda la población era una necesidad política, económica y social. La escuela pasó a ser vista como un instrumento fundamental para formar ciudadanos, trabajadores y sujetos adaptados al nuevo orden social.
+
+En este contexto aparecen las bases de la pedagogía moderna. Uno de sus grandes antecedentes fue Juan Amos Comenio, autor de la obra Didáctica Magna de 1632. Comenio propuso algo revolucionario para su época: “enseñar todo a todos”. No significaba que todas las personas debieran ser expertas en todo, sino que toda la población debía acceder a ciertos conocimientos básicos. Esto rompía con la idea de que solo algunos sectores privilegiados podían estudiar.
+
+Comenio también sentó las bases de la organización escolar moderna. Defendía una enseñanza graduada y gradual: los alumnos debían avanzar por etapas según la edad y el nivel de aprendizaje. Además, daba enorme importancia al orden, al control del tiempo, a la disciplina y a la organización del espacio escolar. Para él, la enseñanza debía planificarse cuidadosamente para evitar pérdidas de tiempo y garantizar eficacia. Muchas características actuales de la escuela nacen allí: horarios, cursos separados por edad, programas organizados y reglas disciplinarias.
+
+Con el tiempo, esas ideas se transformaron en lo que conocemos como pedagogía tradicional. Esta corriente se caracteriza por una enseñanza centrada en el docente, que ocupa el lugar principal dentro del aula. El maestro transmite conocimientos considerados verdaderos y legítimos, mientras que el alumno debe escuchar, memorizar y repetir. El conocimiento aparece como algo ya elaborado y acabado, que debe ser incorporado por los estudiantes.
+
+La escuela tradicional estaba fuertemente organizada alrededor de la disciplina y el control. Los tiempos eran rígidos, el aula estaba estructurada de manera fija y el silencio y la obediencia eran considerados valores fundamentales. La enseñanza era enciclopedista: se buscaba transmitir una gran cantidad de contenidos organizados en materias separadas. El modelo era simultáneo: todos los alumnos aprendían lo mismo, al mismo tiempo y de la misma manera.
+
+Más adelante, el sociólogo francés Émile Durkheim dio una fundamentación sociológica muy importante a este modelo educativo. Durkheim pensaba la educación como un proceso de socialización. Para él, el ser humano no nace preparado para vivir en sociedad: la educación debe formar en cada individuo un “ser social”.
+
+Durkheim sostenía que la educación cumple dos funciones principales. Por un lado, transmitir valores, normas y creencias comunes para generar cohesión social. Esto es lo que él llama homogeneidad. Toda sociedad necesita ciertos valores compartidos que permitan la convivencia y mantengan el orden social. Por ejemplo, respeto a las leyes, hábitos de disciplina o sentimientos de pertenencia nacional.
+
+Pero, al mismo tiempo, la educación también debe formar individuos diferentes para cumplir distintas funciones sociales. A esto lo llama heterogeneidad. No todas las personas ocuparán el mismo lugar en la sociedad: algunos serán técnicos, otros profesionales, otros trabajadores manuales, etc. Entonces la escuela debe distribuir conocimientos específicos según las funciones que cada uno desempeñará.
+
+Por eso, para Durkheim, la educación es simultáneamente homogénea y heterogénea. Homogénea porque forma una base común de valores; heterogénea porque prepara para distintos roles sociales.
+
+Su mirada sobre la sociedad era profundamente organicista. Comparaba la sociedad con un organismo vivo donde cada parte cumple una función necesaria. Igual que en el cuerpo humano cada órgano tiene una tarea específica, en la sociedad cada individuo debe ocupar un lugar determinado. Por eso veía los conflictos sociales como anomalías que alteraban el equilibrio.
+
+En consecuencia, la función de la educación no era transformar la sociedad sino adaptarse a ella y asegurar su continuidad. La escuela debía preparar a los individuos para integrarse al orden existente. Allí aparece una idea central de la pedagogía tradicional: la educación como mecanismo de adaptación social.
+
+En este modelo, el Estado tiene un papel fundamental. Como representante del interés general, debe organizar la educación y garantizar la transmisión de los valores comunes que sostienen la sociedad. De allí surge la creación de sistemas educativos nacionales, ministerios, leyes de educación obligatoria y formación docente estatal.
+
+Sin embargo, a comienzos del siglo XX comenzaron a aparecer fuertes críticas a la pedagogía tradicional. Muchos educadores consideraban que la escuela se había vuelto demasiado rígida, autoritaria y alejada de las necesidades reales de los niños. En ese contexto surge el movimiento de la Escuela Nueva o Escuela Activa.
+
+La Escuela Nueva se llamó “nueva” porque se oponía a la escuela tradicional. Pero eso no significa simplemente que fuera “mejor” o “superadora” en todos los aspectos. Más bien representó otra manera de pensar la relación entre docente, alumno y conocimiento.
+
+Mientras la pedagogía tradicional estaba centrada en el docente y en los contenidos, la Escuela Nueva colocó al niño en el centro del proceso educativo. Influenciada por pensadores como Jean-Jacques Rousseau, sostenía que la infancia tiene características propias y que la educación debe respetar los intereses y necesidades del niño.
+
+Los escolanovistas criticaban el exceso de memorización y disciplina mecánica de la escuela tradicional. Consideraban que el alumno debía aprender haciendo, experimentando y participando activamente. Por eso promovieron nuevas metodologías: trabajos manuales, juegos, excursiones, experimentación, expresión artística y actividades grupales.
+
+El conocimiento dejó de verse como algo que simplemente se transmite y pasó a entenderse como algo que el alumno construye a partir de su experiencia. El docente ya no era solamente quien explica y controla, sino alguien que guía, acompaña y organiza situaciones de aprendizaje.
+
+Risieri Frondizi resume varios principios fundamentales de la Escuela Nueva:
+
+la libertad del niño;
+la actividad y participación;
+el aprendizaje basado en intereses;
+el contacto con materiales concretos y experiencias reales.
+
+También cambió la mirada sobre el error. En la escuela tradicional equivocarse solía verse como fracaso o desobediencia; en la Escuela Nueva el error empezó a considerarse parte del aprendizaje.
+
+Dentro de este movimiento hubo experiencias muy distintas. Algunos autores importantes fueron Maria Montessori, John Dewey, Decroly o las hermanas Agazzi. Todos compartían la crítica a la rigidez tradicional, aunque con enfoques diferentes.
+
+En el Río de la Plata, estas ideas fueron retomadas por pedagogos como Luis Iglesias y Jesualdo Sosa. Ambos desarrollaron experiencias en escuelas públicas rurales y defendieron la creatividad infantil, la expresión libre y la importancia de partir de los intereses reales de los alumnos.
+
+Criticaban la “pedagogía de la repetición”, basada en copiar y memorizar contenidos alejados de la vida cotidiana. En sus aulas promovían dibujos, escritura, teatro, poesía y otras formas de expresión creadora. Para ellos, la libertad era una condición necesaria para el desarrollo artístico y personal de los niños.
+
+Sin embargo, tampoco aceptaban cualquier actividad sin sentido pedagógico. Iglesias, por ejemplo, criticó ciertas versiones extremas de la Escuela Nueva donde la actividad se volvía un fin en sí mismo, sin articulación con contenidos importantes.
+
+En definitiva, el gran debate entre pedagogía tradicional y Escuela Nueva gira alrededor de varias preguntas fundamentales: qué lugar ocupa el docente, cómo aprende el alumno, qué conocimiento debe enseñarse y para qué sirve la educación.
+
+La pedagogía tradicional prioriza el orden, la transmisión de conocimientos y la adaptación al sistema social existente. La Escuela Nueva, en cambio, pone el acento en la actividad del alumno, la experiencia, la creatividad y los intereses infantiles.
+
+Pero ambas corrientes deben entenderse en su contexto histórico. No son bloques totalmente cerrados ni homogéneos. Muchas prácticas escolares actuales mezclan elementos de las dos tradiciones. Incluso hoy siguen apareciendo debates sobre disciplina, autoridad, participación, contenidos o libertad escolar que tienen su origen en estas discusiones pedagógicas del siglo XX.
+
+DURKHEIM
+1. ¿Cuáles son las funciones que le asigna a la educación?
+
+Para Émile Durkheim, la educación cumple una función fundamental: socializar a las nuevas generaciones. Es decir, preparar a los individuos para vivir en sociedad. La educación no forma solamente personas individuales, sino sujetos capaces de integrarse al orden social existente.
+
+Durkheim le asigna dos grandes funciones:
+
+Por un lado, transmitir normas, valores, creencias y hábitos comunes a toda la sociedad. Esto permite mantener la cohesión social y el orden. La escuela enseña disciplina, respeto, obediencia a las leyes y sentimientos colectivos necesarios para convivir.
+
+Por otro lado, la educación también prepara a los individuos para ocupar distintas funciones dentro de la división social del trabajo. No todos van a realizar las mismas tareas en la sociedad, por eso la escuela distribuye conocimientos y capacidades específicas según los distintos roles sociales.
+
+En síntesis, la educación busca formar seres sociales y garantizar la continuidad y estabilidad de la sociedad.
+
+2. Explique los conceptos de homogeneidad y heterogeneidad y la relación entre ambos. ¿Cómo vincula estos conceptos con las funciones asignadas por Durkheim a la educación?
+
+Durkheim sostiene que la educación es al mismo tiempo homogénea y heterogénea.
+
+La homogeneidad significa que la educación transmite valores y principios comunes a todos los miembros de la sociedad. Por ejemplo, normas morales, disciplina, respeto a la autoridad o sentimientos de pertenencia nacional. Esto genera unidad social y permite que exista cohesión entre las personas.
+
+La heterogeneidad significa que la educación también diferencia a los individuos según las funciones que ocuparán en la sociedad. Como existe división del trabajo, cada persona necesita conocimientos y habilidades específicas para desempeñar distintas tareas.
+
+Ambos conceptos se relacionan porque la educación debe lograr equilibrio entre unidad y diferenciación. La escuela forma sujetos semejantes en ciertos valores básicos, pero también prepara individuos distintos según las necesidades sociales.
+
+Por eso la homogeneidad se vincula con la función de integración social y la heterogeneidad con la preparación para diferentes funciones económicas y sociales.
+
+3. ¿Cómo explica el autor el pasaje del ser individual al ser social? ¿Cuál es el papel de la educación en este pasaje?
+
+Durkheim considera que el ser humano nace como un ser individual, guiado principalmente por deseos e intereses personales. Pero para vivir en sociedad necesita incorporar normas, valores y formas de comportamiento colectivas.
+
+Ese pasaje del ser individual al ser social ocurre a través de la educación. La educación actúa sobre el niño moldeando su conducta y enseñándole maneras de pensar y actuar aceptadas socialmente.
+
+La escuela y la familia transmiten hábitos de disciplina, responsabilidad, respeto y cooperación. De esta forma, el individuo aprende a controlar sus impulsos y adaptarse a la vida social.
+
+Entonces, la educación tiene un papel central porque transforma al individuo biológico en un sujeto social y moral capaz de integrarse a la sociedad.
+
+4. ¿Qué supuestos subyacentes de sociedad, individuo y cambio social podría inferir del texto? ¿Qué relación habría entre individuo y sociedad?
+
+En el pensamiento de Durkheim aparece una visión de la sociedad como un organismo que necesita orden y equilibrio para funcionar correctamente. Cada individuo cumple una función específica dentro del conjunto social.
+
+El individuo no es entendido como completamente autónomo, sino como producto de la sociedad. La sociedad existe antes que el individuo y ejerce influencia sobre él mediante normas, valores e instituciones como la escuela.
+
+El cambio social no es pensado desde el conflicto entre clases sociales, sino desde la necesidad de mantener la cohesión y el equilibrio. Durkheim veía los conflictos como anomalías que alteraban el funcionamiento normal de la sociedad.
+
+Por eso la relación entre individuo y sociedad es de subordinación relativa del individuo al orden social. La educación debe adaptar al sujeto a la sociedad y no transformarla radicalmente.
+
+5. ¿Cuál es la función del Estado en materia de educación?
+
+Durkheim considera que el Estado debe ser el principal responsable de la educación porque representa el interés general de la sociedad.
+
+Su función es garantizar la transmisión de valores comunes y organizar el sistema educativo para asegurar la formación moral y social de las nuevas generaciones.
+
+El Estado debe controlar y supervisar la educación para que todos reciban una formación básica común que permita mantener la cohesión social. Por eso impulsa leyes educativas, formación docente y sistemas escolares nacionales.
+
+En otras palabras, el Estado asegura que la educación cumpla su función socializadora.
+
+6. ¿Qué características debe poseer el educador?
+
+Para Durkheim, el educador debe tener autoridad moral y capacidad para transmitir los valores sociales legítimos.
+
+El docente no solo enseña contenidos, sino que forma moralmente a los alumnos. Por eso debe ser disciplinado, responsable y ejemplo de conducta social.
+
+Además, necesita comprender la importancia social de la educación y actuar con compromiso hacia la formación de futuros ciudadanos.
+
+La autoridad del docente no debe basarse solamente en la imposición o el castigo, sino en el reconocimiento social de su función educativa.
+
+7. ¿Cómo vincula Durkheim los conceptos de libertad y autoridad?
+
+Durkheim sostiene que la verdadera libertad solo puede existir gracias a la autoridad y a la disciplina.
+
+Para él, si las personas actuaran únicamente siguiendo sus deseos individuales, la vida social sería caótica. Las normas y la autoridad permiten que los individuos aprendan a controlar sus impulsos y convivir con otros.
+
+Por eso la educación debe ejercer cierta autoridad sobre el alumno. La disciplina no es vista como algo negativo, sino como condición necesaria para formar sujetos morales y libres.
+
+La libertad, entonces, no significa ausencia de reglas, sino capacidad de actuar racionalmente dentro de un marco social compartido.
+
+![alt text](image.png)
 
 # Clase 5
 
@@ -1073,3 +1393,52 @@ su visión instrumental,
 y su incapacidad para comprender la complejidad educativa.
 
 La pedagogía por objetivos transforma la educación en un proceso técnico orientado por la eficiencia, la medición y el control de resultados. Inspirada en modelos industriales y positivistas, organiza la enseñanza mediante objetivos observables y secuencias planificadas. Las críticas señalan que este enfoque reduce la complejidad educativa, limita la autonomía docente y subordina la educación a las necesidades productivas y sociales del sistema existente.
+
+# Clase 6
+
+La pedagogía tecnicista, también llamada pedagogía por objetivos, surge en el siglo XX como una forma de pensar la educación desde criterios propios del mundo industrial y empresarial. Su preocupación principal no era tanto formar personas críticas o desarrollar integralmente a los estudiantes, sino hacer que la escuela funcionara de manera eficiente, ordenada y productiva. Por eso se habla de una pedagogía profundamente ligada a la tecnocracia y al modelo de organización industrial.
+
+Para entender esta corriente hay que ubicarla en su contexto histórico. Durante las primeras décadas del siglo XX, especialmente en países industrializados como Estados Unidos, el capitalismo se expandía rápidamente y las fábricas necesitaban enormes cantidades de trabajadores preparados para cumplir tareas específicas. La producción industrial comenzaba a organizarse bajo el modelo taylorista, desarrollado por Frederick Taylor, que buscaba aumentar la productividad mediante la división precisa del trabajo, el control de los tiempos y movimientos y la planificación detallada de cada tarea. Todo debía ser calculado para lograr el máximo rendimiento.
+
+La escuela empezó entonces a ser vista como una institución capaz de preparar esa mano de obra necesaria para el nuevo sistema económico. La pregunta central dejó de ser “¿qué tipo de persona queremos formar?” y pasó a ser “¿cómo hacer más eficiente el proceso educativo?”. De ahí que conceptos como eficacia, eficiencia, racionalidad, productividad y control se transformaran en palabras clave de esta pedagogía.
+
+Uno de los autores más importantes de esta corriente fue Franklin Bobbitt. En 1918 publicó el libro The Curriculum, considerado fundamental para el nacimiento de los estudios curriculares modernos. Bobbitt sostenía que la escuela debía funcionar igual que una fábrica. Así como una empresa define exactamente qué producto quiere obtener y organiza todos sus recursos para producirlo, la escuela debía definir claramente qué tipo de conducta quería generar en los estudiantes y organizar toda la enseñanza en función de esos resultados.
+
+Para Bobbitt, el currículo era básicamente una cuestión técnica y organizativa. Primero había que investigar cuáles eran las habilidades necesarias para el mundo laboral adulto; después, diseñar actividades para enseñar esas habilidades; y finalmente, crear mecanismos de evaluación que permitieran medir si efectivamente habían sido aprendidas. Todo debía ser observable, medible y verificable.
+
+Más adelante, estas ideas fueron sistematizadas por Ralph Tyler en su famoso modelo curricular de 1949. Tyler organizó el currículo alrededor de preguntas aparentemente simples pero decisivas:
+
+¿Qué objetivos educativos debe alcanzar la escuela?
+¿Qué experiencias de aprendizaje permiten alcanzarlos?
+¿Cómo organizar esas experiencias?
+¿Cómo evaluar si los objetivos fueron logrados?
+
+La gran importancia de Tyler fue instalar definitivamente la idea de que la educación debía planificarse científicamente. Los objetivos tenían que formularse de manera precisa, clara y observable. No bastaba decir “el alumno comprenderá”. Había que especificar conductas concretas, por ejemplo: “el alumno resolverá correctamente diez ejercicios”. Esto muestra la influencia del conductismo, corriente psicológica que entendía el aprendizaje como modificación observable de la conducta.
+
+Dentro de esta lógica, tanto el docente como el alumno ocupan un lugar secundario. Lo más importante ya no es la relación pedagógica ni la experiencia educativa, sino la correcta organización de los medios y procedimientos. El profesor deja de ser visto como un intelectual o formador y pasa a convertirse en un ejecutor de programas diseñados por especialistas. El alumno, por su parte, es concebido casi como un receptor de estímulos cuidadosamente planificados.
+
+Por eso la pedagogía tecnicista fragmenta el trabajo educativo. Aparecen especialistas en evaluación, en planificación, en diseño curricular, en tecnología educativa, etc. El proceso pedagógico se divide en tareas separadas, como sucede en una línea de producción industrial.
+
+Esta corriente también impulsó el desarrollo de tecnologías de enseñanza. Se difundieron propuestas como la microenseñanza, la instrucción programada, la tele-enseñanza y las llamadas “máquinas de enseñar”. Aquí aparece la figura de B. F. Skinner, uno de los principales representantes del conductismo.
+
+Skinner proponía dispositivos donde el estudiante avanzaba paso a paso respondiendo ejercicios muy pequeños y recibiendo inmediatamente la confirmación de si su respuesta era correcta o incorrecta. Según él, esto hacía el aprendizaje más eficaz porque reforzaba rápidamente las conductas correctas y evitaba frustraciones. El alumno avanzaba a su propio ritmo, pero siempre siguiendo un programa cuidadosamente diseñado.
+
+La idea de fondo era que aprender podía convertirse en un proceso técnico perfectamente controlable. El conocimiento se fragmentaba en pequeñas unidades simples y secuenciadas. Cada paso debía ser dominado antes de pasar al siguiente. En esta visión, enseñar se parecía mucho a programar una máquina.
+
+Sin embargo, esta pedagogía recibió numerosas críticas.
+
+Autores como José Gimeno Sacristán señalaron que la pedagogía por objetivos reducía la educación a un problema puramente técnico. El gran problema es que dejaba de preguntarse para qué educar o qué sentido social y político tiene la enseñanza. La preocupación exclusiva por la eficiencia hacía desaparecer la reflexión crítica sobre la sociedad y sobre el papel de la escuela.
+
+Además, esta corriente suponía que la educación podía funcionar de manera “neutral” y científica, como si enseñar fuera simplemente aplicar técnicas objetivas. Pero en realidad toda educación implica valores, decisiones culturales e intereses sociales. No existe una enseñanza completamente neutral.
+
+Otra crítica importante es que la pedagogía tecnicista ignoraba la especificidad humana del acto educativo. Una fábrica produce objetos; la escuela trabaja con personas, con historias, emociones, desigualdades y contextos sociales. Intentar trasladar directamente el modelo industrial a la educación terminaba simplificando excesivamente el proceso educativo.
+
+También se cuestionó que este modelo favorecía la adaptación al sistema existente en vez de promover una formación crítica. La escuela aparecía como una institución encargada de producir trabajadores eficientes para el capitalismo industrial, más que ciudadanos capaces de cuestionar las injusticias sociales.
+
+En América Latina estas políticas tecnicistas tuvieron mucha influencia especialmente durante los años 60 y 70. Muchos programas educativos impulsados desde organismos internacionales promovían tecnologías educativas y reformas curriculares basadas en eficiencia y planificación técnica. Pero en muchos casos esos proyectos ignoraban las realidades sociales de los países periféricos y hasta respondían a intereses económicos externos, como la venta de tecnologías y equipamientos educativos.
+
+En la práctica, además, la pedagogía tecnicista no resolvió los problemas de desigualdad escolar. Aunque prometía mejorar la calidad y ampliar oportunidades, muchas veces terminó aumentando la fragmentación educativa. El contenido de enseñanza se empobreció, la enseñanza se volvió más mecánica y los sectores populares siguieron enfrentando altos niveles de deserción y fracaso escolar.
+
+Por eso las pedagogías críticas posteriores cuestionaron fuertemente este modelo. Autores como Paulo Freire denunciaron que esta visión convertía al estudiante en un sujeto pasivo y transformaba la educación en un acto de simple transmisión técnica. Frente a eso propusieron una educación dialógica, crítica y orientada a la transformación social.
+
+En síntesis, la pedagogía tecnicista representa el intento de organizar la escuela según los principios de la producción industrial moderna. Su gran objetivo fue hacer de la educación un proceso racional, eficiente y controlable. Pero al hacerlo redujo muchas veces la enseñanza a una cuestión técnica, dejando en segundo plano las dimensiones humanas, políticas, culturales y sociales de la educación.
